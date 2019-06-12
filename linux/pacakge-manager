@@ -1,0 +1,9 @@
+Ubuntu
+dpkg is the underlying package manager for these systems; it can install, remove, and build packages. What it cannot do is download the dependencies.
+The higher-level package management system is the apt (Advanced Package Tool) system of utilities.
+
+RedHat
+Red Hat Package Manager (RPM) is the package management system popular on Linux , developed by RedHat. It uses yum (Yellowdog Updater, Modified) for all purposes.
+
+OpenSUSE
+The YaST (Yet another Setup Tool) Software Manager. It uses RPM as the underlying package manager.
