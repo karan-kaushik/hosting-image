@@ -70,7 +70,8 @@ because, due to, owing to, since, as
 
 #### Giving your opinion
 ```
-in my opinion, i think, i believe, in my view, i admit, i concur, i disagree```
+in my opinion, i think, i believe, in my view, i admit, i concur, i disagree
+```
 
 #### Conclusion
 ```

@@ -58,7 +58,8 @@ Building wider roads can solve traffic congestion because it allows traffic to m
 
 Complex Sentences
 ```
-Building wider roads can solve traffic congestion , which is a serious problem,(where) in most major citites (when)  during rush hour, because it allows traffic to move easily.
+Building wider roads can solve traffic congestion , which is a serious problem,(where) in most major citites 
+(when)during rush hour, because it allows traffic to move easily.
 ```
 
 
