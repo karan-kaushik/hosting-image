@@ -21,7 +21,8 @@ Which of these things should you include in your answer to this question?
 ### Sample Answer
 
 ```
-Read the following sample answer. Complete the answer by filling the gaps with a word or phrase from the box below.
+Read the following sample answer.
+Complete the answer by filling the gaps with a word or phrase from the box below.
 
 Although,	Because,	Finally,	Firstly,
 in my opinion,	such as,	for example,	Moreover,
