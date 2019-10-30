@@ -1,0 +1,16 @@
+What does IAM give you?
+-   Centralized control over your AWS account
+-   Shared Access to your AWS account
+-   Granular permissions
+-   Identity Federation (including Active Directory, Facebook, LindenIN, etc)
+-   Multifactor Authentication
+-   Provides  temporary access for users/devices and services,as necessary
+-   Allows you to setup up your own password rotation policy
+-   Supports PCI DSS compliance (Payment Gateway)
+
+Critical Terms:
+Users - end users
+Groups - A collection of users under one set of permissions
+Roles - You can create roles and can then assign them to AWS resources
+Policies - A document that defines one (or more) permissions
+
